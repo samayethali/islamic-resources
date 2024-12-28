@@ -1,0 +1,25 @@
+site_name: Islamic Resources
+site_url: https://sitename.example
+theme:
+  name: material
+  icon:
+    logo: fontawesome/solid/book-quran
+  # font:
+  #   text: Merriweather Sans
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: black
+      accent: deep purple
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+extra:
+  generator: false
+markdown_extensions:
+  - attr_list
