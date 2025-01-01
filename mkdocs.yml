@@ -1,11 +1,20 @@
 site_name: Islamic Resources
-site_url: https://sitename.example
+site_description: A collection of Islamic resources for learning and teaching
+site_url: https://samayethali.github.io/islamic-resources/
+
 theme:
   name: material
+  font:
+    # text: "Noto Sans"
+    # text: "Source Sans Pro"
+    text: "PT Sans"
+    # text: "Merriweather"
+    # text: "Raleway"
+  features:
+    - navigation.tabs
+    # - navigation.top
   icon:
     logo: fontawesome/solid/book-quran
-  # font:
-  #   text: Merriweather Sans
   palette:
     # Dark Mode
     - scheme: slate
@@ -19,7 +28,17 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
+
+nav:
+  - Daily Reminder: index.md
+  - Qur'ān: quran.md
+  - Ḥadīth: hadith.md
+  - Dhikr: dhikr.md
+  - Downloads: downloads.md
+  - About: about.md
+
 extra:
   generator: false
+
 markdown_extensions:
   - attr_list
