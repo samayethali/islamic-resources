@@ -1,6 +1,6 @@
 site_name: Islamic Resources
 site_description: A collection of Islamic resources for learning and teaching
-site_url: https://samayethali.github.io/islamic-resources
+site_url: https://samayethali.github.io/
 
 theme:
   name: material
