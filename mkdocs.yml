@@ -30,12 +30,17 @@ theme:
         name: Light mode
 
 nav:
-  - Daily Reminder: index.md
-  - Qur'ān: quran.md
-  - Ḥadīth: hadith.md
-  - Dhikr: dhikr.md
-  - Downloads: downloads.md
-  - About: about.md
+  - Home: index.md
+  - Qur'ān:
+      - Overview: quran/overview.md
+  - Ḥadīth:
+      - Overview: hadith/overview.md
+  - Dhikr:
+      - Overview: dhikr/overview.md
+  - Duʿās:
+      - Overview: duas/overview.md
+  - Fiqh:
+      - Overview: fiqh/overview.md
 
 extra:
   generator: false

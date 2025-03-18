@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Welcome to Islamic Resources
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Islamic Resources is your hub for accessing a curated collection of Islamic materials aimed at helping both learners and teachers. Our platform features Arabic transliterations to assist English speakers in mastering the proper pronunciation of Arabic terms.
 
-## Commands
+Our website is organized into several sections:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [Qur'ān](quran/overview.md): Explore resources to aid with accurate recitation of the Holy Qur'ān
+- [Ḥadīth](hadith/overview.md): Delve into authentic traditions and sayings
+- [Dhikr](dhikr/overview.md): Find the best phrases of remembrance from the Prophet ﷺ
+- [Duʿās](duas/overview.md): Find essential supplications and prayers
+- [Fiqh](fiqh/overview.md): Understand Islamic law and practices
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We invite you to explore these resources and enhance your understanding and practice of Islam.
