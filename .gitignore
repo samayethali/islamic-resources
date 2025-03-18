@@ -172,3 +172,4 @@ cython_debug/
 
 # LLM context files
 llm*.*
+.llms/*.*
