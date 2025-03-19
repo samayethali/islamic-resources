@@ -12,7 +12,6 @@ theme:
     # text: "Raleway"
   features:
     - navigation.tabs
-    # - navigation.top
   icon:
     logo: fontawesome/solid/book-quran
   palette:
@@ -39,8 +38,10 @@ nav:
       - Overview: dhikr/overview.md
   - Duʿās:
       - Overview: duas/overview.md
-  - Fiqh:
-      - Overview: fiqh/overview.md
+      # - Sayyid al-Istighfār: duas/sayyid-al-istighfar.md
+      - Anxiety: duas/anxiety.md
+  # - Fiqh:
+  #     - Overview: fiqh/overview.md
 
 extra:
   generator: false
