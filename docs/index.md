@@ -4,10 +4,10 @@ Islamic Resources is your hub for accessing a curated collection of Islamic mate
 
 Our website is organized into several sections:
 
-- [Qur'ān](quran/overview.md): Resources to aid with accurate recitation of the Holy Qur'ān
-- [Ḥadīth](hadith/overview.md): Authentic traditions and sayings
-- [Dhikr](dhikr/overview.md): The best phrases of remembrance from the Prophet ﷺ
-- [Duʿās](duas/overview.md): Essential supplications and prayers
-<!-- - [Fiqh](fiqh/overview.md): Understand Islamic law and practices -->
+- [Qur'ān](quran/index.md): Resources to aid with accurate recitation of the Holy Qur'ān
+- [Ḥadīth](hadith/index.md): Authentic traditions and sayings
+- [Dhikr](dhikr/index.md): The best phrases of remembrance from the Prophet ﷺ
+- [Duʿās](duas/index.md): Essential supplications and prayers
+<!-- - [Fiqh](fiqh/index.md): Understand Islamic law and practices -->
 
 We invite you to explore these resources and enhance your understanding and practice of Islam.

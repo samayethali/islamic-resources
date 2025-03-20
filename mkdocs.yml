@@ -11,7 +11,16 @@ theme:
     # text: "Merriweather"
     # text: "Raleway"
   features:
+    # - navigation.tracking
+    # - navigation.top
     - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.indexes
+    # - toc.integrate
+    # - content.action.edit
+    # - content.code.copy
+    # - content.tooltips
+
   icon:
     logo: fontawesome/solid/book-quran
   palette:
@@ -31,15 +40,16 @@ theme:
 nav:
   - Home: index.md
   - Qur'ān:
-      - Overview: quran/overview.md
+      - quran/index.md
   - Ḥadīth:
-      - Overview: hadith/overview.md
+      - hadith/index.md
   - Dhikr:
-      - Overview: dhikr/overview.md
+      - dhikr/index.md
   - Duʿās:
-      - Overview: duas/overview.md
-      # - Sayyid al-Istighfār: duas/sayyid-al-istighfar.md
+      - duas/index.md
       - Anxiety: duas/anxiety.md
+      # - Duʿās:
+        # - Sayyid al-Istighfār: duas/sayyid-al-istighfar.md
   # - Fiqh:
   #     - Overview: fiqh/overview.md
 
